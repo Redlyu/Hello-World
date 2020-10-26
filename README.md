@@ -2,10 +2,10 @@
 The first one
 
 
-* [Project background](#Project background)
+* [Project background](#Project-background)
 * [Features](#features)
 * [Documentation](#documentation)
-* [System requirements](#system requirements)
+* [System requirements](#system-requirements)
 * [Changelog](#changelog)
 
 ## Project background
