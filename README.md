@@ -10,20 +10,8 @@ The first one
 * [Changelog](#changelog)
 
 ## Project background
-lokoaksokasas
-dkasldkalsda
-dajsjdjkasdjkas
-jdasjdka
 ## User stories
 ## Documentation
-hsjdhajsda
-okosdokasoda
-jsdbassbaxjxj
-saoskda
 ## System requirements
 ## Installation guide
-djaksjdkasjdka
-sdhajsdhjasd
-hdkasdkadjlll
-ll
 ## Changelog
